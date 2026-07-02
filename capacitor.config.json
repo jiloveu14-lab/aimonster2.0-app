@@ -1,0 +1,9 @@
+{
+  "appId": "com.aimonster.app",
+  "appName": "AiMonster",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": true
+  }
+}
